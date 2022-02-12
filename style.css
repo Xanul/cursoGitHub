@@ -7,4 +7,6 @@ body {
 
 #cabecera {
     color: white;
+    background-color: rgb(216, 36, 36);
+    font-size: 20px;
 }
