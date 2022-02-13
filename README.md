@@ -1,2 +1,2 @@
 # cursoGitHub
-Repositorio para el curso de GitHub
+Repositorio creado para probar funcionalidades de GitHub
